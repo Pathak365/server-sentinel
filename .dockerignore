@@ -1,0 +1,15 @@
+
+.venv/
+.git/
+.github/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.env
+.env.*
+!.env.example
+infra/.terraform/
+infra/terraform.tfstate
+infra/terraform.tfstate.backup

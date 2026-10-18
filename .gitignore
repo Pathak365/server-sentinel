@@ -15,3 +15,12 @@ data/*
 *.log
 .idea/
 .vscode/
+
+
+
+# Terraform
+**/.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
